@@ -1,0 +1,1 @@
+This website was created as a project whilst learning HTML & CSS on Codecademy.
